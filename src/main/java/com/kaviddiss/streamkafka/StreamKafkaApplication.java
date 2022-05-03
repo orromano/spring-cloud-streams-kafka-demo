@@ -6,7 +6,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class StreamKafkaApplication {
 
-    public static void main(String[] args) {
-        SpringApplication.run(StreamKafkaApplication.class, args);
-    }
+	public static void main(String[] args) {
+		SpringApplication.run(StreamKafkaApplication.class, args);
+	}
 }
